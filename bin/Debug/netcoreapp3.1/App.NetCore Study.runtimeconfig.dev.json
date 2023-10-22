@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\truon\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\truon\\.nuget\\packages"
+    ]
+  }
+}
