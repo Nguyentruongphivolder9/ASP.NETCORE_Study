@@ -5,4 +5,8 @@
     <RootNamespace>App.NetCore_Study</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="NewtonSoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
 </Project>
