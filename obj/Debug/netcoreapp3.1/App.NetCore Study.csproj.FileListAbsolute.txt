@@ -19,3 +19,13 @@ D:\project\ASP.NET C#\App.NetCore Study\obj\Debug\netcoreapp3.1\staticwebassets\
 D:\project\ASP.NET C#\App.NetCore Study\obj\Debug\netcoreapp3.1\App.NetCore Study.dll
 D:\project\ASP.NET C#\App.NetCore Study\obj\Debug\netcoreapp3.1\App.NetCore Study.pdb
 D:\project\ASP.NET C#\App.NetCore Study\obj\Debug\netcoreapp3.1\App.NetCore Study.genruntimeconfig.cache
+D:\project\ASP.NET C#\App.NetCore Study\bin\Debug\netcoreapp3.1\BouncyCastle.Cryptography.dll
+D:\project\ASP.NET C#\App.NetCore Study\bin\Debug\netcoreapp3.1\MailKit.dll
+D:\project\ASP.NET C#\App.NetCore Study\bin\Debug\netcoreapp3.1\MimeKit.dll
+D:\project\ASP.NET C#\App.NetCore Study\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+D:\project\ASP.NET C#\App.NetCore Study\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\project\ASP.NET C#\App.NetCore Study\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+D:\project\ASP.NET C#\App.NetCore Study\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+D:\project\ASP.NET C#\App.NetCore Study\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\project\ASP.NET C#\App.NetCore Study\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+D:\project\ASP.NET C#\App.NetCore Study\obj\Debug\netcoreapp3.1\App.NetCore Study.csproj.CopyComplete
